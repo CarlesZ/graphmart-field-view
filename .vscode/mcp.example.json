@@ -1,0 +1,11 @@
+{
+  "servers": {
+    "graph-tt02-alt": {
+      "type": "http",
+      "url": "https://your-graphstudio-host/mcp",
+      "headers": {
+        "Authorization": "Basic <base64 of username:password>"
+      }
+    }
+  }
+}
